@@ -1,8 +1,8 @@
 # Galleryy
 Very Simple Gallery
 
-Only work for BASIC folder
-
+Only work for BASIC folder<br/>
+Pictures->Basic<br/>
 (ENGLISH)</br>
 if the application didn't work(Forced close)
 
